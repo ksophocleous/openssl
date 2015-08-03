@@ -116,3 +116,5 @@ ms/nt.mak
 ms/ntdll.mak
 ms/ssleay32.def
 ms/version32.rc
+ms/uptable.asm
+build.bat
